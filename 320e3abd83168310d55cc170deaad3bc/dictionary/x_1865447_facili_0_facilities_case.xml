@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e5171bb1831a8310d55cc170deaad39b" extends="task" label="Facilities Case" max_length="40" name="x_1865447_facili_0_facilities_case" type="collection">
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

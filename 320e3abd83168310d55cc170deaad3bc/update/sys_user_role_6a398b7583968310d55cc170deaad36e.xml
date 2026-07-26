@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by display_value="x_1865447_facili_0.admin" name="x_1865447_facili_0.admin">f60e3abd83168310d55cc170deaad3e2</assignable_by>
+        <can_delegate>true</can_delegate>
+        <description>approvals, budget sign-off, reporting</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>UXhn7GDlyDSKH+mpsKn2T+nwU/+swoCv5gL6dUaTjxg=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1865447_facili_0.Facilities Managers</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>Facilities Managers</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-26 10:42:44</sys_created_on>
+        <sys_id>6a398b7583968310d55cc170deaad36e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1865447_facili_0.Facilities Managers</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_update_name>sys_user_role_6a398b7583968310d55cc170deaad36e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-26 10:42:44</sys_updated_on>
+    </sys_user_role>
+</record_update>
