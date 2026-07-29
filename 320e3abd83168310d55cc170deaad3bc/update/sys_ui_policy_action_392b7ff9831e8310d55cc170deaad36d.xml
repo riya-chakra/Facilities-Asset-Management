@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>short_description</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-26 14:20:29</sys_created_on>
+        <sys_id>392b7ff9831e8310d55cc170deaad36d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_update_name>sys_ui_policy_action_392b7ff9831e8310d55cc170deaad36d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-26 14:20:29</sys_updated_on>
+        <table>x_1865447_facili_0_facilities_case</table>
+        <ui_policy display_value="Make short description mandatory">84c8bf3583da8310d55cc170deaad34f</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=392b7ff9831e8310d55cc170deaad36d"/>
+</record_update>

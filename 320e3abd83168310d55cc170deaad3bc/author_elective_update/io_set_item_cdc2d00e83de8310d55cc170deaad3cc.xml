@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="Request Room Setup">7e578446839e8310d55cc170deaad3ab</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-26 16:03:24</sys_created_on>
+        <sys_id>cdc2d00e83de8310d55cc170deaad3cc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Building Variable Set.Request Room Setup</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_update_name>io_set_item_cdc2d00e83de8310d55cc170deaad3cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-26 16:03:24</sys_updated_on>
+        <variable_set display_value="Building Variable Set">1582d8ca83de8310d55cc170deaad3b2</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</application>
+        <file_path/>
+        <instance_id>97a49902db327190b1eb9027c5961993</instance_id>
+        <instance_name>dev229640</instance_name>
+        <name>io_set_item_cdc2d00e83de8310d55cc170deaad3cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Request Room Setup">7e578446839e8310d55cc170deaad3ab</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-26 16:03:24</sys_created_on><sys_id>cdc2d00e83de8310d55cc170deaad3cc</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Building Variable Set.Request Room Setup</sys_name><sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package><sys_policy/><sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope><sys_update_name>io_set_item_cdc2d00e83de8310d55cc170deaad3cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-26 16:03:24</sys_updated_on><variable_set display_value="Building Variable Set">1582d8ca83de8310d55cc170deaad3b2</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>-1919826483</payload_hash>
+        <record_name>Building Variable Set.Request Room Setup</record_name>
+        <reverted_from/>
+        <source>3c4f367183568310d55cc170deaad3a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-26 16:03:24</sys_created_on>
+        <sys_id>cdc2d00e83de8310d55cc170deaad3e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19f9f2ab7cc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-26 16:03:24</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>8dc2d00e06de83103d0274a7396e0ce5</update_guid>
+        <update_guid_history>8dc2d00e06de83103d0274a7396e0ce5:-1919826483</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Building Variable Set.Request Room Setup">d18c335e831e8710d55cc170deaad3ea</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-28 03:43:10</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>8f2b24da79094eb191bb22bda56f21a1</sys_id>
+        <sys_metadata>cdc2d00e83de8310d55cc170deaad3cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Building Variable Set.Request Room Setup</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_scope_delete display_value="">bc32e71e784f44d78bef3ef6e44f61f9</sys_scope_delete>
+        <sys_update_name>io_set_item_cdc2d00e83de8310d55cc170deaad3cc</sys_update_name>
+        <sys_update_version display_value="io_set_item_cdc2d00e83de8310d55cc170deaad3cc">cdc2d00e83de8310d55cc170deaad3e6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-28 03:43:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
