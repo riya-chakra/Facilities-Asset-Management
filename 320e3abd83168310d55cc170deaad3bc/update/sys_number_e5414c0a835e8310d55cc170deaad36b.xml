@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1865447_facili_0_vendor">x_1865447_facili_0_vendor</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>VEN</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-26 14:46:59</sys_created_on>
+        <sys_id>e5414c0a835e8310d55cc170deaad36b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VEN</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_update_name>sys_number_e5414c0a835e8310d55cc170deaad36b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-26 14:46:59</sys_updated_on>
+    </sys_number>
+</record_update>

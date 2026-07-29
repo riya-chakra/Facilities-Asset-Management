@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>short_description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-26 14:20:38</sys_created_on>
+        <sys_data_policy display_value="Make short description mandatory">2f3bffb5831e8310d55cc170deaad3b8</sys_data_policy>
+        <sys_id>a73b733d831e8310d55cc170deaad346</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_update_name>sys_data_policy_rule_a73b733d831e8310d55cc170deaad346</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-26 14:20:38</sys_updated_on>
+        <table>x_1865447_facili_0_facilities_case</table>
+    </sys_data_policy_rule>
+</record_update>
