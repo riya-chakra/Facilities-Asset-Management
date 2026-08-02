@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="45ceb61f83168f10d55cc170deaad37e" sys_domain="global" table="x_1865447_facili_0_rooms" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_rooms</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-01 11:40:22</sys_created_on>
+            <sys_id>aa105e3f83528350d55cc170deaad309</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1865447_facili_0_rooms" sys_domain="global" view="Default view">45ceb61f83168f10d55cc170deaad37e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-01 11:40:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owner</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-01 11:40:22</sys_created_on>
+            <sys_id>66105e3f83528350d55cc170deaad30a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1865447_facili_0_rooms" sys_domain="global" view="Default view">45ceb61f83168f10d55cc170deaad37e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-01 11:40:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-01 11:40:22</sys_created_on>
+            <sys_id>22105e3f83528350d55cc170deaad30b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1865447_facili_0_rooms" sys_domain="global" view="Default view">45ceb61f83168f10d55cc170deaad37e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-01 11:40:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>floor</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-01 11:40:22</sys_created_on>
+            <sys_id>ea105e3f83528350d55cc170deaad30b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1865447_facili_0_rooms" sys_domain="global" view="Default view">45ceb61f83168f10d55cc170deaad37e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-01 11:40:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>capacity</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-01 11:40:22</sys_created_on>
+            <sys_id>a6105e3f83528350d55cc170deaad30c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1865447_facili_0_rooms" sys_domain="global" view="Default view">45ceb61f83168f10d55cc170deaad37e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-01 11:40:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1865447_facili_0_rooms</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-31 01:47:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45ceb61f83168f10d55cc170deaad37e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1865447_facili_0_rooms</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+            <sys_update_name>sys_ui_section_45ceb61f83168f10d55cc170deaad37e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-31 01:47:17</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</application>
+        <file_path/>
+        <instance_id>97a49902db327190b1eb9027c5961993</instance_id>
+        <instance_name>dev229640</instance_name>
+        <name>sys_ui_section_45ceb61f83168f10d55cc170deaad37e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="45ceb61f83168f10d55cc170deaad37e" sys_domain="global" table="x_1865447_facili_0_rooms" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>total_rooms</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-01 11:40:22</sys_created_on><sys_id>aa105e3f83528350d55cc170deaad309</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1865447_facili_0_rooms" sys_domain="global" view="Default view">45ceb61f83168f10d55cc170deaad37e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-01 11:40:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>owner</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-01 11:40:22</sys_created_on><sys_id>66105e3f83528350d55cc170deaad30a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1865447_facili_0_rooms" sys_domain="global" view="Default view">45ceb61f83168f10d55cc170deaad37e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-01 11:40:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-01 11:40:22</sys_created_on><sys_id>22105e3f83528350d55cc170deaad30b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1865447_facili_0_rooms" sys_domain="global" view="Default view">45ceb61f83168f10d55cc170deaad37e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-01 11:40:22</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>floor</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-01 11:40:22</sys_created_on><sys_id>ea105e3f83528350d55cc170deaad30b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1865447_facili_0_rooms" sys_domain="global" view="Default view">45ceb61f83168f10d55cc170deaad37e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-01 11:40:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>capacity</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-01 11:40:22</sys_created_on><sys_id>a6105e3f83528350d55cc170deaad30c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1865447_facili_0_rooms" sys_domain="global" view="Default view">45ceb61f83168f10d55cc170deaad37e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-01 11:40:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1865447_facili_0_rooms</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-31 01:47:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>45ceb61f83168f10d55cc170deaad37e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1865447_facili_0_rooms</sys_name><sys_overrides/><sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package><sys_policy/><sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope><sys_update_name>sys_ui_section_45ceb61f83168f10d55cc170deaad37e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-31 01:47:17</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1873541451</payload_hash>
+        <record_name>Rooms</record_name>
+        <reverted_from/>
+        <source>3c4f367183568310d55cc170deaad3a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-01 11:40:22</sys_created_on>
+        <sys_id>2e105e3f83528350d55cc170deaad310</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fbd200eee0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-01 11:40:22</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>2e105e3f01528350829199b74ecd100f</update_guid>
+        <update_guid_history>2e105e3f01528350829199b74ecd100f:-1873541451,8a4fcebbb3528350cc82b3213c6add86:-269601814,0b6c8ef3ba52835080eb2dea676604f4:850691331,4b6c8ef346528350648b707396cac5d9:300033523,09ceb61fdd168f10e068169bb00d2990:769472217,85ceb61fd0168f10ae3eecb78c9b7984:-1581666619</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-01 11:42:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0892d4edf3b146c2825aeb70a5c488e4</sys_id>
+        <sys_metadata>45ceb61f83168f10d55cc170deaad37e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1865447_facili_0_rooms</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_parent display_value="">fc48f69f83d28f10d55cc170deaad3ff</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_scope_delete display_value="">bc32e71e784f44d78bef3ef6e44f61f9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_45ceb61f83168f10d55cc170deaad37e</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_45ceb61f83168f10d55cc170deaad37e">2e105e3f83528350d55cc170deaad310</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-01 11:42:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

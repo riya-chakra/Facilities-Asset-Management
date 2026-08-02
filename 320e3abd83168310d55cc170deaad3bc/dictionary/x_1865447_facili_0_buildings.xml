@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ba9096bf83528350d55cc170deaad3ca" extends="cmn_building" label="Buildings" max_length="40" name="x_1865447_facili_0_buildings" type="collection">
+        <element label="Rooms" max_length="40" name="rooms" type="integer"/>
+    </element>
+</database>

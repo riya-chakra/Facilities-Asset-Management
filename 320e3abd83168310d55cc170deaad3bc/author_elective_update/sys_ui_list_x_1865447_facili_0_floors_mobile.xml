@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_1865447_facili_0_floors" version="2" view="Mobile">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>building</element>
+            <list_id display_value="x_1865447_facili_0_floors" element="NULL" name="x_1865447_facili_0_floors" parent="NULL" relationship="NULL" sys_domain="global" view="c04be242183232108bb255f46a373a63">30bc56f783d28350d55cc170deaad3f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-01 12:35:24</sys_created_on>
+            <sys_id>30bc56f783d28350d55cc170deaad3f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-01 12:35:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>floor</element>
+            <list_id display_value="x_1865447_facili_0_floors" element="NULL" name="x_1865447_facili_0_floors" parent="NULL" relationship="NULL" sys_domain="global" view="c04be242183232108bb255f46a373a63">30bc56f783d28350d55cc170deaad3f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-01 12:35:24</sys_created_on>
+            <sys_id>b4bc56f783d28350d55cc170deaad3f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-01 12:35:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>rooms</element>
+            <list_id display_value="x_1865447_facili_0_floors" element="NULL" name="x_1865447_facili_0_floors" parent="NULL" relationship="NULL" sys_domain="global" view="c04be242183232108bb255f46a373a63">30bc56f783d28350d55cc170deaad3f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-01 12:35:24</sys_created_on>
+            <sys_id>3cbc56f783d28350d55cc170deaad3f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-01 12:35:24</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1865447_facili_0_floors</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-01 12:35:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30bc56f783d28350d55cc170deaad3f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1865447_facili_0_floors</sys_name>
+            <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+            <sys_update_name>sys_ui_list_x_1865447_facili_0_floors_Mobile</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-01 12:35:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Mobile" name="Mobile">c04be242183232108bb255f46a373a63</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</application>
+        <file_path/>
+        <instance_id>97a49902db327190b1eb9027c5961993</instance_id>
+        <instance_name>dev229640</instance_name>
+        <name>sys_ui_list_x_1865447_facili_0_floors_Mobile</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_1865447_facili_0_floors" version="2" view="Mobile"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>building</element><list_id display_value="x_1865447_facili_0_floors" element="NULL" name="x_1865447_facili_0_floors" parent="NULL" relationship="NULL" sys_domain="global" view="c04be242183232108bb255f46a373a63">30bc56f783d28350d55cc170deaad3f3</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-01 12:35:24</sys_created_on><sys_id>30bc56f783d28350d55cc170deaad3f4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-01 12:35:24</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>floor</element><list_id display_value="x_1865447_facili_0_floors" element="NULL" name="x_1865447_facili_0_floors" parent="NULL" relationship="NULL" sys_domain="global" view="c04be242183232108bb255f46a373a63">30bc56f783d28350d55cc170deaad3f3</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-01 12:35:24</sys_created_on><sys_id>b4bc56f783d28350d55cc170deaad3f4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-01 12:35:24</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>rooms</element><list_id display_value="x_1865447_facili_0_floors" element="NULL" name="x_1865447_facili_0_floors" parent="NULL" relationship="NULL" sys_domain="global" view="c04be242183232108bb255f46a373a63">30bc56f783d28350d55cc170deaad3f3</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-01 12:35:24</sys_created_on><sys_id>3cbc56f783d28350d55cc170deaad3f4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-01 12:35:24</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1865447_facili_0_floors</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-01 12:35:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>30bc56f783d28350d55cc170deaad3f3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1865447_facili_0_floors</sys_name><sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package><sys_policy/><sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope><sys_update_name>sys_ui_list_x_1865447_facili_0_floors_Mobile</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-01 12:35:24</sys_updated_on><sys_user/><view display_value="Mobile" name="Mobile">c04be242183232108bb255f46a373a63</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1264077490</payload_hash>
+        <record_name>Floors</record_name>
+        <reverted_from/>
+        <source>3c4f367183568310d55cc170deaad3a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-01 12:35:24</sys_created_on>
+        <sys_id>b4bc56f783d28350d55cc170deaad3f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fbd5271b60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-01 12:35:24</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>74bc56f757d28350624f605b34c433f8</update_guid>
+        <update_guid_history>74bc56f757d28350624f605b34c433f8:1264077490</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-01 12:37:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>302e3028a29a42c89e9ce2896ac83484</sys_id>
+        <sys_metadata>30bc56f783d28350d55cc170deaad3f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1865447_facili_0_floors</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_parent display_value="">d687123f83928350d55cc170deaad310</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_scope_delete display_value="">bc32e71e784f44d78bef3ef6e44f61f9</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_1865447_facili_0_floors_Mobile</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_1865447_facili_0_floors_Mobile">b4bc56f783d28350d55cc170deaad3f8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-01 12:37:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

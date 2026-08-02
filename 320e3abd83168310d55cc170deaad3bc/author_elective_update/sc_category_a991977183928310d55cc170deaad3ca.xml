@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="DELETE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-26 11:18:50</sys_created_on>
+        <sys_id>a991977183928310d55cc170deaad3ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Equipment</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_update_name>sc_category_a991977183928310d55cc170deaad3ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-26 11:18:50</sys_updated_on>
+        <title>Equipment</title>
+    </sc_category>
+    <sys_translated_text action="DELETE" query="documentkey=a991977183928310d55cc170deaad3ca"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</application>
+        <file_path/>
+        <instance_id>97a49902db327190b1eb9027c5961993</instance_id>
+        <instance_name>dev229640</instance_name>
+        <name>sc_category_a991977183928310d55cc170deaad3ca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description/><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-26 11:18:50</sys_created_on><sys_id>a991977183928310d55cc170deaad3ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Equipment</sys_name><sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package><sys_policy/><sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope><sys_update_name>sc_category_a991977183928310d55cc170deaad3ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-26 11:18:50</sys_updated_on><title>Equipment</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=a991977183928310d55cc170deaad3ca"/></record_update>]]></payload>
+        <payload_hash>2034831869</payload_hash>
+        <record_name>Equipment</record_name>
+        <reverted_from/>
+        <source>3c4f367183568310d55cc170deaad3a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-01 09:35:59</sys_created_on>
+        <sys_id>9ca3b9ff835e4350d55cc170deaad311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fbcae2d430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-01 09:35:59</sys_updated_on>
+        <type>Category</type>
+        <update_guid>d4a3b9ff305e4350fc66621923332611</update_guid>
+        <update_guid_history>d4a3b9ff305e4350fc66621923332611:0,e8a113f531d68310c142818d03809b73:-431634922</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Equipment">e8a3b9ff835e4350d55cc170deaad324</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-01 09:35:59</sys_created_on>
+        <sys_db_object display_value="" name="sc_category">sc_category</sys_db_object>
+        <sys_id>294138086d504780aa41a6ec22484000</sys_id>
+        <sys_metadata>a991977183928310d55cc170deaad3ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Equipment</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_scope_delete display_value="">bc32e71e784f44d78bef3ef6e44f61f9</sys_scope_delete>
+        <sys_update_name>sc_category_a991977183928310d55cc170deaad3ca</sys_update_name>
+        <sys_update_version display_value="sc_category_a991977183928310d55cc170deaad3ca">9ca3b9ff835e4350d55cc170deaad311</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-01 09:35:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Request Vendor Services">2d83470e83560710d55cc170deaad394</sc_cat_item>
+        <sc_category display_value="Vendor Services">38b1d3f583d68310d55cc170deaad30e</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-27 10:04:19</sys_created_on>
+        <sys_id>fa2a885e839e0710d55cc170deaad34d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vendor Services.Request Vendor Services</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_update_name>sc_cat_item_category_fa2a885e839e0710d55cc170deaad34d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-27 10:04:19</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</application>
+        <file_path/>
+        <instance_id>97a49902db327190b1eb9027c5961993</instance_id>
+        <instance_name>dev229640</instance_name>
+        <name>sc_cat_item_category_fa2a885e839e0710d55cc170deaad34d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request Vendor Services">2d83470e83560710d55cc170deaad394</sc_cat_item><sc_category display_value="Vendor Services">38b1d3f583d68310d55cc170deaad30e</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-27 10:04:19</sys_created_on><sys_id>fa2a885e839e0710d55cc170deaad34d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vendor Services.Request Vendor Services</sys_name><sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package><sys_policy/><sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope><sys_update_name>sc_cat_item_category_fa2a885e839e0710d55cc170deaad34d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-27 10:04:19</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>174253053</payload_hash>
+        <record_name>Vendor Services.Request Vendor Services</record_name>
+        <reverted_from/>
+        <source>3c4f367183568310d55cc170deaad3a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-27 10:04:19</sys_created_on>
+        <sys_id>f22a885e839e0710d55cc170deaad354</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fa30853690000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-27 10:04:19</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>b22a885eb79e0710a1e07c60f1365153</update_guid>
+        <update_guid_history>b22a885eb79e0710a1e07c60f1365153:174253053</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Vendor Services.Request Vendor Services">5ca379ff835e4350d55cc170deaad37c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-01 09:35:58</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>541e571d68d84c409c84e7683718ec64</sys_id>
+        <sys_metadata>fa2a885e839e0710d55cc170deaad34d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vendor Services.Request Vendor Services</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_scope_delete display_value="">bc32e71e784f44d78bef3ef6e44f61f9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_fa2a885e839e0710d55cc170deaad34d</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_fa2a885e839e0710d55cc170deaad34d">f22a885e839e0710d55cc170deaad354</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-01 09:35:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
