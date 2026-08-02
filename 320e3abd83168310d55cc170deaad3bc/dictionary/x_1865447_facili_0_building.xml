@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="229c3fbd831e8310d55cc170deaad3c6" label="Building" max_length="40" name="x_1865447_facili_0_building" type="collection">
-        <element label="Rooms" max_length="150" name="rooms" type="integer"/>
-        <element label="Room Number" max_length="10" name="room_number" type="integer"/>
-        <element label="Total Floors" max_length="40" name="total_floors" type="integer"/>
-        <element label="Floor Number" max_length="20" name="floor_number" type="integer"/>
-        <element label="Name" mandatory="true" max_length="160" name="name" type="string"/>
-    </element>
-</database>

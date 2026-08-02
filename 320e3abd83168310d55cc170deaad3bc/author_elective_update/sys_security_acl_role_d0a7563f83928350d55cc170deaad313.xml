@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-01 12:13:16</sys_created_on>
+        <sys_id>d0a7563f83928350d55cc170deaad313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1865447_facili_0_floors.x_1865447_facili_0.floors_user</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_security_acl display_value="x_1865447_facili_0_floors">d8a7563f83928350d55cc170deaad30d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d0a7563f83928350d55cc170deaad313</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-01 12:13:16</sys_updated_on>
+        <sys_user_role display_value="x_1865447_facili_0.floors_user" name="x_1865447_facili_0.floors_user">07d97a5383168f10d55cc170deaad3a6</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</application>
+        <file_path/>
+        <instance_id>97a49902db327190b1eb9027c5961993</instance_id>
+        <instance_name>dev229640</instance_name>
+        <name>sys_security_acl_role_d0a7563f83928350d55cc170deaad313</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-01 12:13:16</sys_created_on><sys_id>d0a7563f83928350d55cc170deaad313</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1865447_facili_0_floors.x_1865447_facili_0.floors_user</sys_name><sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package><sys_policy/><sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope><sys_security_acl display_value="x_1865447_facili_0_floors">d8a7563f83928350d55cc170deaad30d</sys_security_acl><sys_update_name>sys_security_acl_role_d0a7563f83928350d55cc170deaad313</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-01 12:13:16</sys_updated_on><sys_user_role display_value="x_1865447_facili_0.floors_user" name="x_1865447_facili_0.floors_user">07d97a5383168f10d55cc170deaad3a6</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>538769968</payload_hash>
+        <record_name>x_1865447_facili_0_floors.x_1865447_facili_0.floors_user</record_name>
+        <reverted_from/>
+        <source>3c4f367183568310d55cc170deaad3a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-01 12:13:16</sys_created_on>
+        <sys_id>e4a7563f83928350d55cc170deaad318</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fbd3e2d5f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-01 12:13:16</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>94a7563f28928350779a6bbd91f8fc17</update_guid>
+        <update_guid_history>94a7563f28928350779a6bbd91f8fc17:538769968</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1865447_facili_0_floors.x_1865447_facili_0.floors_user">ff3d927b83d28350d55cc170deaad37d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-01 12:37:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>30454b22c18d4e94a4bfaf9abbf1bd90</sys_id>
+        <sys_metadata>d0a7563f83928350d55cc170deaad313</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1865447_facili_0_floors.x_1865447_facili_0.floors_user</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_parent display_value="">d8a7563f83928350d55cc170deaad30d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_scope_delete display_value="">bc32e71e784f44d78bef3ef6e44f61f9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_d0a7563f83928350d55cc170deaad313</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_d0a7563f83928350d55cc170deaad313">e4a7563f83928350d55cc170deaad318</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-01 12:37:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

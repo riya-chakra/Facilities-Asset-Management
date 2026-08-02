@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_1865447_facili_0.Requested Date &gt;48 hours</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>Requested Date &gt;48 hours</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var Requested_Date__48_hours = Class.create();
+Requested_Date__48_hours.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    getDays: function() {
+    var requestDate = this.getParameter('sysparm_date');
+	var gdtRequest = new GlideDateTime(requestDate);
+	var newDate= new GlideDateTime();
+    newDate.add("48:00:00"); 
+      if(gdtRequest.compareTo(newDate)<0) {
+         return 'requested date should be atleast 48 hours in the future';
+      }
+      return '';
+}
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-29 13:51:06</sys_created_on>
+        <sys_id>30c70f7283968b10d55cc170deaad3e8</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Requested Date &gt;48 hours</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_update_name>sys_script_include_30c70f7283968b10d55cc170deaad3e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-01 14:07:39</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</application>
+        <file_path/>
+        <instance_id>97a49902db327190b1eb9027c5961993</instance_id>
+        <instance_name>dev229640</instance_name>
+        <name>sys_script_include_30c70f7283968b10d55cc170deaad3e8</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_1865447_facili_0.Requested Date &amp;gt;48 hours&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description/&gt;&lt;mobile_callable&gt;false&lt;/mobile_callable&gt;&lt;name&gt;Requested Date &amp;gt;48 hours&lt;/name&gt;&lt;sandbox_callable&gt;false&lt;/sandbox_callable&gt;&lt;script&gt;&lt;![CDATA[var Requested_Date__48_hours = Class.create();
+Requested_Date__48_hours.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    getDays: function() {
+    var requestDate = this.getParameter('sysparm_date');
+	var gdtRequest = new GlideDateTime(requestDate);
+	var newDate= new GlideDateTime();
+    newDate.add("48:00:00"); 
+      if(gdtRequest.compareTo(newDate)&lt;0) {
+         return 'requested date should be atleast 48 hours in the future';
+      }
+      return '';
+}
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-07-29 13:51:06&lt;/sys_created_on&gt;&lt;sys_id&gt;30c70f7283968b10d55cc170deaad3e8&lt;/sys_id&gt;&lt;sys_mod_count&gt;10&lt;/sys_mod_count&gt;&lt;sys_name&gt;Requested Date &amp;gt;48 hours&lt;/sys_name&gt;&lt;sys_package display_value="Facilities &amp;amp;amp; Asset Maintenance Management" source="x_1865447_facili_0"&gt;320e3abd83168310d55cc170deaad3bc&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="Facilities &amp;amp;amp; Asset Maintenance Management"&gt;320e3abd83168310d55cc170deaad3bc&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_30c70f7283968b10d55cc170deaad3e8&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-08-01 14:07:39&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1912170223</payload_hash>
+        <record_name>Requested Date &gt;48 hours</record_name>
+        <reverted_from/>
+        <source>3c4f367183568310d55cc170deaad3a8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-01 14:07:39</sys_created_on>
+        <sys_id>c4d1723783968350d55cc170deaad3c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fbda6e6b90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-01 14:07:39</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>04d17237ea9683504ecb984f5170f7c5</update_guid>
+        <update_guid_history>04d17237ea9683504ecb984f5170f7c5:1912170223,7250727361968350a145b32ff8311657:1436485899,adafe2ffac5683504fb221d600ba764d:887621390,9ede2a7f3c5683501b5ac47e3e8e5aee:-1379764946,3a94affaa15a8b1077c138bddf92f4c7:-2029208402,ab14e7ba885a8b103db8ba9440c351d6:-855791599,37f26fb6115a8b1070bb43f041bdb5ed:-654994366,1c6cd7faa11a8b102f58e687a509a12c:426136006,74fa573a631a8b10d3db59fa4272c122:237208120,b5391b36341a8b10cb9eb13557c592b9:2066409855,20419b36e1d68b104aaa229112b4e54d:-170684079</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-01 14:27:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>49729733cf3f407a92a9d4dcc1fc6384</sys_id>
+        <sys_metadata>30c70f7283968b10d55cc170deaad3e8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested Date &gt;48 hours</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_scope_delete display_value="">bc32e71e784f44d78bef3ef6e44f61f9</sys_scope_delete>
+        <sys_update_name>sys_script_include_30c70f7283968b10d55cc170deaad3e8</sys_update_name>
+        <sys_update_version display_value="sys_script_include_30c70f7283968b10d55cc170deaad3e8">c4d1723783968350d55cc170deaad3c6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-01 14:27:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

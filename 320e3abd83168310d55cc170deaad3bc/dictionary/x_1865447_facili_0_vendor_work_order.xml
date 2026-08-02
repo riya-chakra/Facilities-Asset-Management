@@ -2,12 +2,13 @@
     <element db_object_id="d432888a835e8310d55cc170deaad3b6" label="Vendor Work Order" max_length="40" name="x_1865447_facili_0_vendor_work_order" type="collection">
         <element label="Unit Price" max_length="20" name="unit_price" type="price"/>
         <element label="Contact" max_length="32" name="contact" reference="sys_user" type="reference"/>
+        <element label="Description" max_length="255" name="description" type="string_full_utf8"/>
         <element label="Email" max_length="40" name="email" type="string"/>
         <element label="Quantity" max_length="5" name="quantity" type="integer"/>
         <element label="Total Cost" max_length="40" name="total_cost" type="string"/>
         <element label="Service" max_length="40" name="service" type="string"/>
         <element label="Order Number" max_length="40" name="order_number" type="integer"/>
-        <element label="Vendor" max_length="32" name="vendor" reference="x_1865447_facili_0_vendor" type="reference"/>
+        <element display="true" label="Vendor" max_length="32" name="vendor" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>
         <element label="Address" max_length="40" name="address" type="string"/>
         <element label="Phone" max_length="40" name="phone" type="phone_number_e164"/>
         <element label="Date" max_length="40" name="date" type="glide_date"/>
