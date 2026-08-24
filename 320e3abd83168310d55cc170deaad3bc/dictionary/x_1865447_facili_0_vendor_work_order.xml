@@ -3,9 +3,11 @@
         <element label="Unit Price" max_length="20" name="unit_price" type="price"/>
         <element label="Contact" max_length="32" name="contact" reference="sys_user" type="reference"/>
         <element label="Description" max_length="255" name="description" type="string_full_utf8"/>
+        <element label="Completion date" mandatory="true" max_length="40" name="completion_date" type="glide_date"/>
         <element label="Email" max_length="40" name="email" type="string"/>
         <element label="Quantity" max_length="5" name="quantity" type="integer"/>
-        <element label="Total Cost" max_length="40" name="total_cost" type="string"/>
+        <element label="Request date" mandatory="true" max_length="40" name="request_date" type="glide_date"/>
+        <element label="Total Cost" max_length="38" name="total_cost" type="currency"/>
         <element label="Service" max_length="40" name="service" type="string"/>
         <element label="Order Number" max_length="40" name="order_number" type="integer"/>
         <element display="true" label="Vendor" max_length="32" name="vendor" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>

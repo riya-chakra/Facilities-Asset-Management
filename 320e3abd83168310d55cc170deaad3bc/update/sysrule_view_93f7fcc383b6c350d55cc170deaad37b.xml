@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_view">
+    <sysrule_view action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>true</advanced>
+        <condition/>
+        <description/>
+        <device_type>browser</device_type>
+        <match_conditions>ALL</match_conditions>
+        <name>Technician Facilities View</name>
+        <order>100</order>
+        <overrides_user_preference>true</overrides_user_preference>
+        <script><![CDATA[(function overrideView(view, is_list) {
+
+	// Add your code here
+	if(gs.hasRole('x_1865447_facili_0.Facility Technician')){
+		answer='Technician';
+	}
+	else if(gs.hasRole('x_1865447_facili_0.Facilities Managers')){
+		answer='Manager';
+	}
+	//answer = null;  // set the new view to answer (Note: use 'Name' value from sys_ui_view table)
+
+})(view, is_list);]]></script>
+        <sys_class_name>sysrule_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-23 17:56:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>93f7fcc383b6c350d55cc170deaad37b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Technician Facilities View</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_update_name>sysrule_view_93f7fcc383b6c350d55cc170deaad37b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-24 06:13:27</sys_updated_on>
+        <table>x_1865447_facili_0_facilities_case</table>
+        <view/>
+    </sysrule_view>
+</record_update>

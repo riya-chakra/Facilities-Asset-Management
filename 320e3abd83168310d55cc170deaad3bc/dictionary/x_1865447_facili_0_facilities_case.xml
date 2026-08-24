@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="e5171bb1831a8310d55cc170deaad39b" extends="task" label="Facilities Case" max_length="40" name="x_1865447_facili_0_facilities_case" type="collection">
+        <element label="HVAC Unit ID " max_length="40" name="hvac_unit_id" type="string"/>
+        <element label="Circuit Breaker Number " max_length="10" name="circuit_breaker_number" type="integer"/>
+        <element label="Estimated Cost" max_length="32" name="estimated_cost" reference="x_1865447_facili_0_vendor_work_order" type="reference"/>
+        <element label="Work Orders" max_length="32" name="work_orders" reference="x_1865447_facili_0_vendor_work_order" type="reference"/>
         <element choice="1" label="Category" max_length="40" name="category" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="HVAC" sequence="1" value="hvac"/>
+                <element inactive_on_update="false" label="Electrical" sequence="2" value="electrical"/>
+            </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="u_category" type="string">
             <choice>
