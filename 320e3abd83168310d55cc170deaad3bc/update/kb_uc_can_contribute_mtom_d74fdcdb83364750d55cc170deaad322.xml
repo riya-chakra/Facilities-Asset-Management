@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_contribute_mtom">
+    <kb_uc_can_contribute_mtom action="INSERT_OR_UPDATE">
+        <kb_knowledge_base display_value="Facilities">7f1f5cdb83364750d55cc170deaad335</kb_knowledge_base>
+        <sys_class_name>kb_uc_can_contribute_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-24 10:41:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d74fdcdb83364750d55cc170deaad322</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Facilities.Has atleast one role apart from snc_internal KB</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+        <sys_update_name>kb_uc_can_contribute_mtom_d74fdcdb83364750d55cc170deaad322</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-24 10:41:58</sys_updated_on>
+        <user_criteria display_value="Has atleast one role apart from snc_internal KB">f9397919f79d52507787d3e543bfd6cd</user_criteria>
+    </kb_uc_can_contribute_mtom>
+</record_update>

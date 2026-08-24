@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Work Notes" section_id="9bf2954f83bac350d55cc170deaad3e1" sys_domain="global" table="x_1865447_facili_0_facilities_case" version="3" view="Technician">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-23 19:49:20</sys_created_on>
+            <sys_id>27f2d54f83bac350d55cc170deaad323</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Work Notes" display_value="Work Notes" name="x_1865447_facili_0_facilities_case" sys_domain="global" view="319bc00f8372c350d55cc170deaad3d4">9bf2954f83bac350d55cc170deaad3e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-23 19:49:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Work Notes</caption>
+            <header>false</header>
+            <name>x_1865447_facili_0_facilities_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-23 19:49:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bf2954f83bac350d55cc170deaad3e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1865447_facili_0_facilities_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Facilities &amp;amp; Asset Maintenance Management" source="x_1865447_facili_0">320e3abd83168310d55cc170deaad3bc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Facilities &amp;amp; Asset Maintenance Management">320e3abd83168310d55cc170deaad3bc</sys_scope>
+            <sys_update_name>sys_ui_section_9bf2954f83bac350d55cc170deaad3e1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-23 19:49:19</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Technician" name="Technician">319bc00f8372c350d55cc170deaad3d4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
